@@ -4,6 +4,7 @@ fizz_or_buzz = 9
 
 if
     fizz_or_buzz % 3 == 0 && fizz_or_buzz % 5 == 0
+        puts "FizzBuzz"
 elsif
     fizz_or_buzz % 3 == 0
         puts "Fizz"
